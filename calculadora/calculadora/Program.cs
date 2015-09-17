@@ -10,11 +10,13 @@ namespace calculadora
     {
         static void Main(string[] args)
         {
-            int x, y, a;
+            int x, y, a,o;
+            Console.WriteLine("=====calculetor basic=======");
             Console.WriteLine("ingrese un numer");
             x = int.Parse(Console .ReadLine ());
             Console.WriteLine("ingrese oto numer");
             y = int.Parse(Console.ReadLine());
+            o = x * y;
             a = x + y;
             Console.WriteLine("hola mundo   "+a );
             Console.ReadKey();
