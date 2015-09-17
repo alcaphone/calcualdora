@@ -16,7 +16,8 @@ namespace calculadora
             x = int.Parse(Console .ReadLine ());
             Console.WriteLine("ingrese oto numer");
             y = int.Parse(Console.ReadLine());
-            Console.WriteLine("hola mundo   "+a );
+            int suma = x + y;
+            Console.WriteLine("la suam es "+ suma);
             Console.ReadKey();
 
 
