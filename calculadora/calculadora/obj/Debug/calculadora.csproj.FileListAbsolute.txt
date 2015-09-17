@@ -1,1 +1,6 @@
 E:\cursogit\calculadora\calculadora\bin\Debug\calculadora.exe.config
+E:\cursogit\calculadora\calculadora\bin\Debug\calculadora.exe
+E:\cursogit\calculadora\calculadora\bin\Debug\calculadora.pdb
+E:\cursogit\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+E:\cursogit\calculadora\calculadora\obj\Debug\calculadora.exe
+E:\cursogit\calculadora\calculadora\obj\Debug\calculadora.pdb
