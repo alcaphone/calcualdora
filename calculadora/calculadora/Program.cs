@@ -16,13 +16,24 @@ namespace calculadora
             x = int.Parse(Console .ReadLine ());
             Console.WriteLine("ingrese oto numer");
             y = int.Parse(Console.ReadLine());
-<<<<<<< HEAD
+
             int resta = x - y;
             Console.WriteLine("hola mundo   "+resta );
-=======
+
             int suma = x + y;
             Console.WriteLine("la suam es "+ suma);
->>>>>>> suma
+
+
+
+
+
+
+
+
+
+
+            int potencia = x ^ 2;
+            Console.WriteLine("la potencia es "+potencia );
             Console.ReadKey();
 
 
