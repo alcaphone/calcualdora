@@ -16,16 +16,22 @@ namespace calculadora
             x = int.Parse(Console .ReadLine ());
             Console.WriteLine("ingrese oto numer");
             y = int.Parse(Console.ReadLine());
-<<<<<<< HEAD
+
             int resta = x - y;
             Console.WriteLine("hola mundo   "+resta );
-=======
+
             int suma = x + y;
             Console.WriteLine("la suam es "+ suma);
->>>>>>> suma
+
+
+
+
+
+            int dividir = x / y;
+            Console.WriteLine("la divicion es "+ dividir );
             Console.ReadKey();
 
-
+            
         }
     }
 }
