@@ -22,6 +22,7 @@ namespace calculadora
 
             int suma = x + y;
             Console.WriteLine("la suam es "+ suma);
+<<<<<<< HEAD
 
 
 
@@ -35,8 +36,18 @@ namespace calculadora
             int potencia = x ^ 2;
             Console.WriteLine("la potencia es "+potencia );
             Console.ReadKey();
+=======
+>>>>>>> rama2
 
 
+
+
+
+            int dividir = x / y;
+            Console.WriteLine("la divicion es "+ dividir );
+            Console.ReadKey();
+
+            
         }
     }
 }
