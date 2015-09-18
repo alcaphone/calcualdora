@@ -16,6 +16,7 @@ namespace calculadora
             x = int.Parse(Console .ReadLine ());
             Console.WriteLine("ingrese oto numer");
             y = int.Parse(Console.ReadLine());
+<<<<<<< HEAD
 
             int resta = x - y;
             Console.WriteLine("hola mundo   "+resta );
@@ -35,10 +36,20 @@ namespace calculadora
 
             int potencia = x ^ 2;
             Console.WriteLine("la potencia es "+potencia );
+=======
+            int resta = x - y;
+            Console.WriteLine("hola mundo   "+resta );
+            int suma = x + y;
+            Console.WriteLine("la suam es "+ suma);
+            
+            int multiplicar = x * y;
+            Console.WriteLine("la multiplicacion es " + multiplicar);
+>>>>>>> rama3
             Console.ReadKey();
 =======
 >>>>>>> rama2
 
+<<<<<<< HEAD
 
 
 
@@ -48,6 +59,8 @@ namespace calculadora
             Console.ReadKey();
 
             
+=======
+>>>>>>> rama3
         }
     }
 }
